@@ -4,7 +4,7 @@ This project is a Python implementation of a **Binary Search Tree (BST)** that s
 
 ## 🚀 Features
 
-- Binary Search Tree structure  
+- Binary Search Tree structure
 - Insertion based on:
   - Primary key: **age**
   - Secondary key: **name** (used when ages are equal)
@@ -41,7 +41,6 @@ git clone https://github.com/your-username/binary-search-tree-python.git
 cd binary-search-tree-python
 ```
 
-
 3. Run the program:
 
 ```bash
@@ -64,7 +63,3 @@ Each output displays the **name and age** of each person stored in the tree.
 
 - Python 3
 - Standard Library (`collections.deque`)
-
-## ✍️ Author
-
-Developed for learning and demonstration purposes.
