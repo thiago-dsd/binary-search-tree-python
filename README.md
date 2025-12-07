@@ -32,7 +32,7 @@ Make sure you have Python 3 installed.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/binary-search-tree-python.git
+git clone https://github.com/thiago-dsd/binary-search-tree-python.git
 ```
 
 2. Navigate to the project folder:
